@@ -12,7 +12,7 @@ Inspired by [Wikipedia For Yomitan/Yomichan](https://github.com/MarvNC/wikipedia
 
 ## Download/Install
 
-Clone or download the repo from Github.  Move the whole "JaWikiStar" folder or just all the files within to the directory where you can install custom dictionaries in your ereader/Stardict compatible desktop program.  
+Download the latest version of the dictionary from the [Releases](https://github.com/ccos89/japanese-wikipedia-stardict/releases) tab, uncompress the folder, and move the folder or all the files within to the directory where you can install custom dictionaries in your ereader/Stardict compatible desktop program.  
 
 For example, on KOReader, move the whole folder to \koreader\data\dict.  
 
@@ -35,10 +35,12 @@ I will try to update this project periodically to incorporate new edits to Wikip
 ## Screenshots
 
 GoldenDict on PC
+
 ![Dictionary Lookup on GoldenDict](https://github.com/ccos89/japanese-wikipedia-stardict/assets/133320139/cc4ed121-7a62-4d95-803c-8bb04dd2191c)
 
 KOReader on Kobo Forma
-![Dictionary Lookup on Kobo Forma](https://github.com/ccos89/japanese-wikipedia-stardict/assets/133320139/21260754-84f9-486d-b52f-4e78ccbc865c)
+
+![Dictionary lookup on Kobo](https://github.com/ccos89/japanese-wikipedia-stardict/assets/133320139/5d3bb2d0-8809-4c51-9cce-7b0897179fa0)
 
 ## Info and Licensing
 
